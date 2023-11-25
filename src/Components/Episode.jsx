@@ -20,7 +20,7 @@ function Episode({id}) {
             SetepicodeName(userArray);
         }
         fetchepisode();
-        },[]);
+        },[id]);
 
     console.log("this is name" ,episodeName);
     return (
