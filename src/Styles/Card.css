@@ -1,0 +1,10 @@
+.Card{
+    /* box-shadow: 5px 5px 7px 4px rgb(142, 142, 142);
+     */
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1),
+     0 2px 4px rgba(0, 0, 0, 0.12),
+     8px 8px 12px rgba(0, 0, 0, 0.14);
+        /* Adjust the values as needed */
+    border-radius: 13px;
+
+}
